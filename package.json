@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-plugin-mathjax-bug8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.47",
+    "vuepress-plugin-mathjax": "^1.2.4"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
